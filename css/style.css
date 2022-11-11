@@ -22,3 +22,12 @@ body {
   background-color: gray;
   padding-bottom: 70px;
 }
+.voltear.acertada, .acertada:hover{
+    background-color: green !important;
+    border-color: green !important;
+    
+}
+.esperandoTimeOut, .esperandoTimeOut:hover{
+    background-color: red;
+    border-color: red;
+}
